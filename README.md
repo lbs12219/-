@@ -23,11 +23,11 @@ node index.js
 2. 本项目使用了Vant Weapp组件包，需要手动添加；
 >本项目使用的vant组件版本为1.10.6
 * 在项目中创建一个文件叫wxcomponents，该文件需与page文件平级
-* ![image]([https://github.com/MaiEmily/map/blob/master/public/image/20190528145810708.png](https://uploader.shimo.im/f/qW7Nzi9P84XzhqKQ.png!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2NjkyMTAyNzUsImZpbGVHVUlEIjoicG1reFFYblowUmlhTjdBTiIsImlhdCI6MTY2OTIwOTk3NSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjozMTgzMTgzOH0.iH_3uTweJrwHhsKUmqv8QFCEv6H85HfpbZwAnP11arw![image](https://user-images.githubusercontent.com/78275353/203558175-65c1e266-9e46-4607-ab59-5721555648a8.png)))
+![image](https://github.com/lbs12219/canteen-vis/tree/main/images/image1.png)
 
 
 * 在该网站“[https://github.com/youzan/vant-weapp/releases](https://github.com/youzan/vant-weapp/releases)”里下载vant组件压缩包
-![图片](data:image/png;https://uploader.shimo.im/f/qW7Nzi9P84XzhqKQ.png!thumbnail?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2NjkyMTAyNzUsImZpbGVHVUlEIjoicG1reFFYblowUmlhTjdBTiIsImlhdCI6MTY2OTIwOTk3NSwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjozMTgzMTgzOH0.iH_3uTweJrwHhsKUmqv8QFCEv6H85HfpbZwAnP11arw![image](https://user-images.githubusercontent.com/78275353/203558175-65c1e266-9e46-4607-ab59-5721555648a8.png))
+![image](https://github.com/lbs12219/canteen-vis/tree/main/images/image2.png)
 
 
 * 将该项目的dist文件夹放在步骤一的wxcomponents文件的vant目录下
