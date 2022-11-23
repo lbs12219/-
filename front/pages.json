@@ -1,0 +1,84 @@
+{
+  "pages": [{
+    "path": "pages/index/index",
+    "style": {
+      "navigationBarTitleText": "食怡"
+    }
+  }],
+
+  "subPackages": [{
+    "root": "subPkg",
+    "pages": [{
+      "path": "stuInfo/stuInfo",
+      "style": {
+        "navigationBarTitleText": "学生信息",
+        "enablePullDownRefresh": false
+      }
+    }, {
+      "path": "shopInfo/shopInfo",
+      "style": {
+        "navigationBarTitleText": "商铺信息",
+        "enablePullDownRefresh": false
+      }
+    }, {
+      "path": "addMeal/addMeal",
+      "style": {
+        "navigationBarTitleText": "添加菜品",
+        "enablePullDownRefresh": false
+      }
+    }, {
+      "path": "orderSys/orderSys",
+      "style": {
+        "navigationBarTitleText": "点餐系统",
+        "enablePullDownRefresh": false
+      }
+    }, {
+      "path": "checkMeal/checkMeal",
+      "style": {
+        "navigationBarTitleText": "菜品列表",
+        "enablePullDownRefresh": false
+      }
+    }, {
+      "path": "checkSold/checkSold",
+      "style": {
+        "navigationBarTitleText": "已售餐食",
+        "enablePullDownRefresh": false
+      }
+    }, {
+      "path": "shopMeal/shopMeal",
+      "style": {
+        "navigationBarTitleText": "商家餐食",
+        "enablePullDownRefresh": true,
+        "backgroundColor": "#F8F8F8"
+      }
+    }, {
+      "path": "aboutUs/aboutUs",
+      "style": {
+        "navigationBarTitleText": "联系我们",
+        "enablePullDownRefresh": false
+      }
+    }]
+  }],
+
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "app-plus": {
+      "background": "#efeff4"
+    },
+    "lazyCodeLoading": "requiredComponents",
+    "usingComponents": {
+      "van-picker": "/wxcomponents/vant/dist/picker/index",
+      "van-button": "/wxcomponents/vant/dist/button/index",
+      "van-field": "/wxcomponents/vant/dist/field/index",
+      "van-action-sheet": "/wxcomponents/vant/dist/action-sheet/index",
+      "van-cell": "/wxcomponents/vant/dist/cell/index",
+      "van-uploader": "/wxcomponents/vant/dist/uploader/index",
+      "van-icon": "/wxcomponents/vant/dist/icon/index",
+      "van-tab": "/wxcomponents/vant/dist/tab/index",
+      "van-tabs": "/wxcomponents/vant/dist/tabs/index"
+    }
+  }
+}
