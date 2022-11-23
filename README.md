@@ -23,11 +23,11 @@ node index.js
 2. 本项目使用了Vant Weapp组件包，需要手动添加；
 >本项目使用的vant组件版本为1.10.6
 * 在项目中创建一个文件叫wxcomponents，该文件需与page文件平级
-![image](https://github.com/lbs12219/canteen-vis/tree/main/images/image1.png)
+![image](https://raw.githubusercontent.com/lbs12219/canteen-vis/main/images/image1.png)
 
 
 * 在该网站“[https://github.com/youzan/vant-weapp/releases](https://github.com/youzan/vant-weapp/releases)”里下载vant组件压缩包
-![image](https://github.com/lbs12219/canteen-vis/tree/main/images/image2.png)
+![image](https://raw.githubusercontent.com/lbs12219/canteen-vis/main/images/image2.png)
 
 
 * 将该项目的dist文件夹放在步骤一的wxcomponents文件的vant目录下
