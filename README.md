@@ -35,5 +35,11 @@ node index.js
 
 
 * 将该项目的dist文件夹放在步骤一的wxcomponents文件的vant目录下
+
 3. 本项目还缺少uni_modules包
+
 4. 运行到微信开发者工具上（本项目小程序基础调试库版本为2.25.4）
+
+5. [“食怡”接口文档](https://www.apifox.cn/apidoc/shared-150e4585-9217-4cf8-b81c-4c84af3eb083)
+
+6. [石墨文档《“食怡”小程序总结》](https://shimo.im/docs/pmkxQXnZ0RiaN7AN/)
